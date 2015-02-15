@@ -1,0 +1,1 @@
+THis is a character creator and storage database for call of cthulhu characters
